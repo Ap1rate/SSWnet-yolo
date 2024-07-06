@@ -20,13 +20,13 @@ Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 git clone https://github.com/SSWnet-yolo  # clone
 cd SSWnet-yolo
 pip install -r requirements.txt  # install
-
+```
 # run
 ```bash
 python3 test_widerface.py --weights 'your test model' --img-size 640
 cd widerface_evaluate
 python3 evaluation.py
-
+```
 # Experimental Configuration
 ![image](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/b3fbfb47-f201-4292-8e59-73f631dc63d9)
 
