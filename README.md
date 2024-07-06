@@ -1,4 +1,4 @@
-# DSWnet-yolo
+# SSWnet-yolo
 Real-time Melanoma Detection Algorithm
 
 ![1720295279380](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/20db9ed3-0ff8-453f-b94c-f2d223e6439c)
