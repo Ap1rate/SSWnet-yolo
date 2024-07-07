@@ -8,6 +8,10 @@ Based on Dynamic Snake Convolution,
 
 SSWnet created by Squeeze-and-Excitation Networks and Wise-IoU Integration, performance was attempted under yolov5 conditions.
 
+# Algorithmic Network Module Diagram
+![Uploading 1720366718587.png…]()
+![Uploading 1720366726973.png…]()
+![Uploading 1720366731974.png…]()
 # Performance
 Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 
