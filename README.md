@@ -9,17 +9,19 @@ Based on Dynamic Snake Convolution,
 SSWnet created by Squeeze-and-Excitation Networks and Wise-IoU Integration, performance was attempted under yolov5 conditions.
 
 # Algorithmic Network Module Diagram
-![1720366718587](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/618b741a-8d96-4797-a358-d8d2836e1583)
-[↓](#) 
+![Image 1](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/618b741a-8d96-4797-a358-d8d2836e1583)
 
-![1720366726973](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/4e496116-1438-4358-ac37-de0bb556425c)
-[↓](#) 
+<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" height="24" /></a></p>
 
-![1720366731974](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/56d8f553-ef4a-4dde-8320-d09a02f54cab)
-[↓](#) 
+![Image 2](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/4e496116-1438-4358-ac37-de0bb556425c)
 
-![1720366735265](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/6657a793-0512-4bec-ab4b-14c9702dd425)
+<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" /></a></p>
 
+![Image 3](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/56d8f553-ef4a-4dde-8320-d09a02f54cab)
+
+<p style="text-align:center;"><a href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0 0 24 24'%3E%3Cpath%20d='M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z'/%3E%3C/svg%3E" alt="Down Arrow" width="24" height="24" /></a></p>
+
+![Image 4](https://github.com/Ap1rate/SSWnet-yolo/assets/107412066/6657a793-0512-4bec-ab4b-14c9702dd425)
 # Performance
 Single Scale Inference on VGA resolution（max side is equal to 640 and scale).
 
